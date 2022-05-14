@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "https://zzbbcsd.github.io/csb-cr7m53/static/css/main.c94f288a.chunk.css",
-    "main.js": "https://zzbbcsd.github.io/csb-cr7m53/static/js/main.de975bde.chunk.js",
-    "main.js.map": "https://zzbbcsd.github.io/csb-cr7m53/static/js/main.de975bde.chunk.js.map",
+    "main.js": "https://zzbbcsd.github.io/csb-cr7m53/static/js/main.3047eb5b.chunk.js",
+    "main.js.map": "https://zzbbcsd.github.io/csb-cr7m53/static/js/main.3047eb5b.chunk.js.map",
     "runtime-main.js": "https://zzbbcsd.github.io/csb-cr7m53/static/js/runtime-main.01465cac.js",
     "runtime-main.js.map": "https://zzbbcsd.github.io/csb-cr7m53/static/js/runtime-main.01465cac.js.map",
-    "static/js/2.ebe262b4.chunk.js": "https://zzbbcsd.github.io/csb-cr7m53/static/js/2.ebe262b4.chunk.js",
-    "static/js/2.ebe262b4.chunk.js.map": "https://zzbbcsd.github.io/csb-cr7m53/static/js/2.ebe262b4.chunk.js.map",
+    "static/js/2.4f7c9f00.chunk.js": "https://zzbbcsd.github.io/csb-cr7m53/static/js/2.4f7c9f00.chunk.js",
+    "static/js/2.4f7c9f00.chunk.js.map": "https://zzbbcsd.github.io/csb-cr7m53/static/js/2.4f7c9f00.chunk.js.map",
     "index.html": "https://zzbbcsd.github.io/csb-cr7m53/index.html",
     "static/css/main.c94f288a.chunk.css.map": "https://zzbbcsd.github.io/csb-cr7m53/static/css/main.c94f288a.chunk.css.map",
-    "static/js/2.ebe262b4.chunk.js.LICENSE.txt": "https://zzbbcsd.github.io/csb-cr7m53/static/js/2.ebe262b4.chunk.js.LICENSE.txt",
+    "static/js/2.4f7c9f00.chunk.js.LICENSE.txt": "https://zzbbcsd.github.io/csb-cr7m53/static/js/2.4f7c9f00.chunk.js.LICENSE.txt",
     "static/media/40651648153116_.pic.jpg": "https://zzbbcsd.github.io/csb-cr7m53/static/media/40651648153116_.pic.fb44b26e.jpg",
     "static/media/Ebi-s-Corner.png": "https://zzbbcsd.github.io/csb-cr7m53/static/media/Ebi-s-Corner.f52ed9a9.png",
     "static/media/IMG_7404.jpg": "https://zzbbcsd.github.io/csb-cr7m53/static/media/IMG_7404.6045d595.jpg",
@@ -23,12 +23,12 @@
     "static/media/pong.gif": "https://zzbbcsd.github.io/csb-cr7m53/static/media/pong.601c2d45.gif",
     "static/media/snakegame.gif": "https://zzbbcsd.github.io/csb-cr7m53/static/media/snakegame.791e5d0b.gif",
     "static/media/spaceInvader.gif": "https://zzbbcsd.github.io/csb-cr7m53/static/media/spaceInvader.6fa1960e.gif",
-    "static/media/story.png": "https://zzbbcsd.github.io/csb-cr7m53/static/media/story.3e9da196.png"
+    "static/media/story.png": "https://zzbbcsd.github.io/csb-cr7m53/static/media/story.9b649975.png"
   },
   "entrypoints": [
     "static/js/runtime-main.01465cac.js",
-    "static/js/2.ebe262b4.chunk.js",
+    "static/js/2.4f7c9f00.chunk.js",
     "static/css/main.c94f288a.chunk.css",
-    "static/js/main.de975bde.chunk.js"
+    "static/js/main.3047eb5b.chunk.js"
   ]
 }
