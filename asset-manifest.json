@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "https://zzbbcsd.github.io/csb-cr7m53/static/css/main.c94f288a.chunk.css",
-    "main.js": "https://zzbbcsd.github.io/csb-cr7m53/static/js/main.4b8c8d70.chunk.js",
-    "main.js.map": "https://zzbbcsd.github.io/csb-cr7m53/static/js/main.4b8c8d70.chunk.js.map",
+    "main.js": "https://zzbbcsd.github.io/csb-cr7m53/static/js/main.c28e152b.chunk.js",
+    "main.js.map": "https://zzbbcsd.github.io/csb-cr7m53/static/js/main.c28e152b.chunk.js.map",
     "runtime-main.js": "https://zzbbcsd.github.io/csb-cr7m53/static/js/runtime-main.01465cac.js",
     "runtime-main.js.map": "https://zzbbcsd.github.io/csb-cr7m53/static/js/runtime-main.01465cac.js.map",
-    "static/js/2.1e110510.chunk.js": "https://zzbbcsd.github.io/csb-cr7m53/static/js/2.1e110510.chunk.js",
-    "static/js/2.1e110510.chunk.js.map": "https://zzbbcsd.github.io/csb-cr7m53/static/js/2.1e110510.chunk.js.map",
+    "static/js/2.b7e42ed3.chunk.js": "https://zzbbcsd.github.io/csb-cr7m53/static/js/2.b7e42ed3.chunk.js",
+    "static/js/2.b7e42ed3.chunk.js.map": "https://zzbbcsd.github.io/csb-cr7m53/static/js/2.b7e42ed3.chunk.js.map",
     "index.html": "https://zzbbcsd.github.io/csb-cr7m53/index.html",
     "static/css/main.c94f288a.chunk.css.map": "https://zzbbcsd.github.io/csb-cr7m53/static/css/main.c94f288a.chunk.css.map",
-    "static/js/2.1e110510.chunk.js.LICENSE.txt": "https://zzbbcsd.github.io/csb-cr7m53/static/js/2.1e110510.chunk.js.LICENSE.txt",
-    "static/media/40651648153116_.pic.jpg": "https://zzbbcsd.github.io/csb-cr7m53/static/media/40651648153116_.pic.fb44b26e.jpg",
+    "static/js/2.b7e42ed3.chunk.js.LICENSE.txt": "https://zzbbcsd.github.io/csb-cr7m53/static/js/2.b7e42ed3.chunk.js.LICENSE.txt",
+    "static/media/40651648153116_.pic.fb44b26e.jpg": "https://zzbbcsd.github.io/csb-cr7m53/static/media/40651648153116_.pic.fb44b26e.jpg",
     "static/media/Ebi-s-Corner.f52ed9a9.png": "https://zzbbcsd.github.io/csb-cr7m53/static/media/Ebi-s-Corner.f52ed9a9.png",
-    "static/media/IMG_7404.jpg": "https://zzbbcsd.github.io/csb-cr7m53/static/media/IMG_7404.6045d595.jpg",
+    "static/media/IMG_7404.6045d595.jpg": "https://zzbbcsd.github.io/csb-cr7m53/static/media/IMG_7404.6045d595.jpg",
     "static/media/abbylog-edit.bb1f4948.png": "https://zzbbcsd.github.io/csb-cr7m53/static/media/abbylog-edit.bb1f4948.png",
     "static/media/abbylog-guest.fbebd3dc.png": "https://zzbbcsd.github.io/csb-cr7m53/static/media/abbylog-guest.fbebd3dc.png",
     "static/media/bookstack.27b0f2b6.jpg": "https://zzbbcsd.github.io/csb-cr7m53/static/media/bookstack.27b0f2b6.jpg",
@@ -27,8 +27,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.01465cac.js",
-    "static/js/2.1e110510.chunk.js",
+    "static/js/2.b7e42ed3.chunk.js",
     "static/css/main.c94f288a.chunk.css",
-    "static/js/main.4b8c8d70.chunk.js"
+    "static/js/main.c28e152b.chunk.js"
   ]
 }
